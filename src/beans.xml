@@ -1,0 +1,6 @@
+<beans>
+    <bean id="cache" class="Cache"/>
+    <bean id="numberRepository" class="NumberRepository" />
+    <bean id="counter" class="Counter"/>
+    <bean id="InumberRepository" class="INumberRepository" />
+</beans>
